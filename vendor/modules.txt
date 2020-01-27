@@ -1,0 +1,6 @@
+# github.com/google/go-querystring v1.0.0
+github.com/google/go-querystring/query
+# github.com/jarcoal/httpmock v1.0.4
+github.com/jarcoal/httpmock
+# github.com/shopspring/decimal v0.0.0-20200105231215-408a2507e114
+github.com/shopspring/decimal
